@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fujino.FiveM.ServerStatus", "Fujino.FiveM.ServerStatus\Fujino.FiveM.ServerStatus.csproj", "{F1D21482-612D-48FD-8196-5FED520900D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fujino.FiveM.ServerStatus Test", "Fujino.FiveM.ServerStatus Test\Fujino.FiveM.ServerStatus Test.csproj", "{856E57E4-B5A6-4618-A8B0-B16FFAE11BC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1D21482-612D-48FD-8196-5FED520900D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1D21482-612D-48FD-8196-5FED520900D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1D21482-612D-48FD-8196-5FED520900D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1D21482-612D-48FD-8196-5FED520900D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{856E57E4-B5A6-4618-A8B0-B16FFAE11BC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{856E57E4-B5A6-4618-A8B0-B16FFAE11BC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{856E57E4-B5A6-4618-A8B0-B16FFAE11BC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{856E57E4-B5A6-4618-A8B0-B16FFAE11BC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A269D27-9393-4D16-8806-7BCE548C1986}
+	EndGlobalSection
+EndGlobal
